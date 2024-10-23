@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
     
-    <h3>Welcome to the world of SRE by Amal Capgemini   LnD</h3>
+    <h3>Welcome to the world of SRE by Amal Capgemini Sogeti  LnD</h3>
 
     </div>
   );
